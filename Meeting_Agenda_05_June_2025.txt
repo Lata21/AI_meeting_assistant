@@ -1,0 +1,23 @@
+
+📝 MEETING AGENDA: AI-Powered Assistant Planning
+
+Date       : 05 June 2025
+Time       : 06:30 PM
+Duration   : 60 minutes
+Location   : Conference Room B / Zoom
+
+Objective  : Discuss current progress and roadmap for the AI Meeting Assistant project.
+
+Focus Areas:
+- Review of project components (Frontend, Backend, Integrations)
+- Integration with Todoist & Telegram APIs
+- Testing & Deployment Plan
+- Assignment of pending tasks
+
+Agenda Items & Assigned Persons:
+1. Project Updates                  — Amit Sharma
+2. Client Feedback Review          — Neha Gupta
+3. Next Sprint Planning            — Rajeev Yadav
+4. AI Integration & Workflow Sync — Lata Bharti
+
+Please be prepared with updates and questions.
